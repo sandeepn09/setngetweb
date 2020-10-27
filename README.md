@@ -25,6 +25,9 @@ To deploy
 * start a screen session just type `screen` enter
 * Run deploy.sh `./deploy.sh`
 
+To restart app
+
+* Follow the instructions above and in the end run `./restart.sh`
 
 ### Contribution guidelines ###
 
