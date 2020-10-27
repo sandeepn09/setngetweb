@@ -20,7 +20,7 @@ To deploy
 
 * from Mac open a terminal. From Windows, open putty or Mobaxterm
 * Run `ssh -i <pemkey-file> ec2-user@18.216.196.171`
-* Once you connected `sudo -s`
+* Once you're connected `sudo -s`
 * Navigate to apps dir `cd /opt/apps`
 * start a screen session just type `screen` enter
 * Run deploy.sh `./deploy.sh`
